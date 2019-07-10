@@ -2,5 +2,6 @@
     "python.pythonPath": "/Users/singhranveer/.local/share/virtualenvs/btre_project-PVQ73on6/bin/python",
     "terminal.integrated.fontWeightBold": "normal",
     "python.formatting.provider": "autopep8",
-    "editor.fontSize": 15
+    "editor.fontSize": 15,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
 }
