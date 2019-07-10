@@ -9,6 +9,9 @@ black = "*"
 autopep8 = "*"
 
 [packages]
+psycopg2 = "*"
+psycopg2-binary = "*"
+pillow = "*"
 
 [requires]
 python_version = "3.7"
