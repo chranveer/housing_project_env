@@ -7,11 +7,15 @@ verify_ssl = true
 pylint = "*"
 black = "*"
 autopep8 = "*"
+rope = "*"
 
 [packages]
 psycopg2 = "*"
 psycopg2-binary = "*"
 pillow = "*"
+pylint-django = "*"
+pep8 = "*"
+pylint = "*"
 
 [requires]
 python_version = "3.7"
