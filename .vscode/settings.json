@@ -25,5 +25,8 @@
     "python.linting.flake8Path": "",
     "python.linting.mypyPath": "",
     "AllAutocomplete.showCurrentDocument": true,
-    "python.formatting.blackPath": ""
+    "python.formatting.blackPath": "",
+    "htmlhint.enable": false,
+    "html.format.indentHandlebars": true,
+    "html.format.wrapAttributes": "preserve"
 }
